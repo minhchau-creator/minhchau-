@@ -23,7 +23,7 @@
         <h2>Thống kê GitHub Streak:</h2>
         <div id="github-stats">
             <img src="http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=dark&background=000000" alt="GitHub Streak Stats">
-            <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hocj2me" /> <img align="center" src="https://github-readme-stats.vercel.app/api?username=hocj2me&show_icons=true" />
+            <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhchau-creator" /> <img align="center" src="https://github-readme-stats.vercel.app/api?username=minhchau-creator&show_icons=true" />
         </div>
     </div>
     <script src="script.js"></script>
