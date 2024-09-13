@@ -1,7 +1,7 @@
 
 ### Hi there 👋
 
-- 😄 Pronouns: She/Her/Hers 
+- 😄 Full name : Pham Hoang Minh Chau (or Clara for short)
 - 🔭 I’m currently working on: AIoT.
 - :heart: Language used: C/C++, HTML/CSS, php, Python, Java
 - 🌱 I’m currently learning: Web/App, IoT, ML, electricity and Data Science.
