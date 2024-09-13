@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning: Web/App, IoT, ML, electricity and Data Science.
 - 👯 I’m always looking to collaborate with: scientists working in application AIoT field
 - 💜 Interests: philosophy, cat, food
-- 💬 Ask me about: anything, I am happy to help
+- 💬 contact me via email : minhchau231204@gmail.com
 
 
 
